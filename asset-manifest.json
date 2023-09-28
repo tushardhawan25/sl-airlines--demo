@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20118ba7.css",
+    "main.js": "/static/js/main.c569e129.js",
+    "static/js/787.4809e3cf.chunk.js": "/static/js/787.4809e3cf.chunk.js",
+    "static/media/advance_seat_reservation.jpg": "/static/media/advance_seat_reservation.614a64cdc550207c2bb7.jpg",
+    "static/media/nb_free_seat.jpg": "/static/media/nb_free_seat.cc4ffa085a7c1d4aec58.jpg",
+    "static/media/optional_services_bid_now.jpg": "/static/media/optional_services_bid_now.f5eb390772e7269542eb.jpg",
+    "static/media/ExpSlider6.jpg": "/static/media/ExpSlider6.5a18f05b3720bc673ecf.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.20118ba7.css.map": "/static/css/main.20118ba7.css.map",
+    "main.c569e129.js.map": "/static/js/main.c569e129.js.map",
+    "787.4809e3cf.chunk.js.map": "/static/js/787.4809e3cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20118ba7.css",
+    "static/js/main.c569e129.js"
+  ]
+}
